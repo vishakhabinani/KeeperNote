@@ -1,5 +1,7 @@
 # Run Completed Code
 
+0.Ensure connection to WSL for windows
+
 1. Make sure dfx is running
 
 ```
